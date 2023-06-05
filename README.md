@@ -6,4 +6,4 @@ The application has a clock, an image slider, weather widgets, an audio player, 
 
 [Deploy of the Momentum application](https://dmitriy-frostoff.github.io/Momentum/momentum/index.html "click")
 
-RSSchool 2022Q4
+[RSSchool 2022Q4](https://rs.school/js-stage0/)
