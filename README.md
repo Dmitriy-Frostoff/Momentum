@@ -4,4 +4,6 @@ The application has a clock, an image slider, weather widgets, an audio player, 
 
 [Momentum task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum-stage1.md "click")
 
+[Deploy of the Momentum application](https://dmitriy-frostoff.github.io/Momentum/momentum/index.html "click")
+
 RSSchool 2022Q4
